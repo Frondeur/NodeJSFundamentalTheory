@@ -1,0 +1,15 @@
+{
+  "name": "task_1_1",
+  "version": "1.0.0",
+  "description": "Task 1.1 of Module 'Node.JS Fundamental Theory'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task1": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
