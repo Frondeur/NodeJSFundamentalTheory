@@ -10,10 +10,10 @@
 ### Start Project
 
 ```sh
-> npm run nodemon task1
+> npm run task1
 ```
 **OR**
 
 ```sh
-> npm run nodemon task2
+> npm run task2
 ```
